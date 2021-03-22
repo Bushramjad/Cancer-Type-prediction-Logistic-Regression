@@ -1,4 +1,4 @@
-# Cancer-Type-prediction-using-LogisticRegression
+# Cancer Type prediction using LogisticRegression
 
 Phase 0 — Data Preparation
 
