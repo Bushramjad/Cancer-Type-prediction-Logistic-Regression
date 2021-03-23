@@ -1,4 +1,6 @@
-# Cancer Type prediction using LogisticRegression
+# Cancer Type prediction using Logistic Regression
+
+Classification of Benign and Malignant Breast Cancer using Supervised Machine Learning Algorithm  Logistic Regression
 
 Phase 0 — Data Preparation - Dataset from Kaggle is used. It contains 596 rows and 32 columns of tumor shape and specifications. The tumor is classified as benign or malignant based on its geometry and shape.
 
