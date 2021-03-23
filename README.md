@@ -8,7 +8,7 @@ Phase 2 — Encoding Categorical Data - Transform the categorical variable colum
 
 Phase 3 — Feature Scaling - It fits the input data within a specific scale, like 0–100 or 0–1
 
-Phase 4 — Model Selection - sklearn’s Logistic Regression is used to classify tumor as benign or malignant.
+Phase 4 — Model Selection - sklearn’s Logistic Regression is used to classify tumor as benign or malignant, Logistic Regression is also implemented from scratch using same Dataset in a different file.
 
 Phase 5 — Prediction
 
